@@ -35,7 +35,8 @@ let's use inspection robot as a example to analyse robots' problem.
 
 2\ emergence handing (eg: avoid obstacle and fall prevention etc)
 
-solution: 
+solution:
+ 
 1\ considering all the emergence situation
 
 2\ auto study and judge ability
